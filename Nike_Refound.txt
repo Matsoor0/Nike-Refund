@@ -1,0 +1,7 @@
+Nike Refound
+
+Requisitos: Cada compra tem de ir para uma morada diferente, podes fazer em pontos de recolha também, máximo 300€
+Fazes a compra normal de no maximo 4 items sendo um deles 1 item barato que vai ser o que tu vais dizer que chegou
+Quando chegar tudo tu vais ao Live Chat deles e dizes que só chegou 1 dos items e dás o nome dele por exemplo “Chinelos Nike”
+O ajudante vai te pedir algumas informações tipo o que te falta etc e tu respondes normal o que supostamente nao chegou
+e é isso
